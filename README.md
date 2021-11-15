@@ -15,3 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 [![wakatime](https://wakatime.com/badge/user/6bf1fc10-6fde-4d93-9b6b-c332821ebb42.svg)](https://wakatime.com/@6bf1fc10-6fde-4d93-9b6b-c332821ebb42)
+- 🌱 I’m currently learning Kotlin, Jetpack Compose, Node.JS
+- 🤔 I’m looking for help with Android
+- 💬 Ask me about JavaScript, Writing, Public Speaking, SQA.
+- 📫 How to reach me: [@maxbogus](https://twitter.com/maxbogus) [@medium](https://medium.com/@maxbogus)
