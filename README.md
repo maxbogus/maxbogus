@@ -21,5 +21,5 @@ Here are some ideas to get you started:
 - 🌱 I’m currently learning Kotlin, Jetpack Compose, Node.JS
 - 🤔 I’m looking for help with Android
 - 💬 Ask me about JavaScript, Writing, Public Speaking, SQA.
-- 📫 How to reach me: [@twitter](https://twitter.com/maxbogus)
-- 🤔 You can read my articles and subscribe on medium: [@medium](https://medium.com/@maxbogus)
+- 📫 How to reach me: [@maxbogus](https://twitter.com/maxbogus)
+- 🤔 You can read my articles and subscribe on medium: [@maxbogus](https://medium.com/@maxbogus)
