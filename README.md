@@ -23,3 +23,4 @@ Here are some ideas to get you started:
 - 💬 Ask me about JavaScript, Writing, Public Speaking, SQA.
 - 📫 How to reach me via [@twitter](https://twitter.com/maxbogus)
 - 🤔 You can read my articles and subscribe on [@medium](https://medium.com/@maxbogus)
+- ⚡ Public Speaker: TeamLeadConf, MoscowPython, AgileDays, SQADays, AgileKitchen, Mail.ru Meetup.
