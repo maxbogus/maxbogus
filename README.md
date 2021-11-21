@@ -20,9 +20,9 @@ Here are some ideas to get you started:
 
 Professional Software Developer. +15 years experience in management, development and SQA. Learning languages for Fun. My dev story: [@stackoverflow](https://stackoverflow.com/story/maxbogus)
 
-Languages: JavaScript, Python, PHP, Kotlin, SwiftUI, Java, bash.
+Languages: Typescript, PHP, Python, JavaScript, Kotlin, SwiftUI, Java, bash.
 
-- 🌱 I’m currently learning Kotlin, Jetpack Compose, Node.JS
+- 🌱 I’m currently learning Kotlin, Jetpack Compose
 - 🤔 I’m looking for help with Android
 - 💬 Ask me about JavaScript, Writing, Public Speaking, SQA.
 - 📫 How to reach me via [@twitter](https://twitter.com/maxbogus)
