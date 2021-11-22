@@ -22,6 +22,8 @@ Professional Software Developer. +15 years experience in management, development
 
 Languages: Typescript, PHP, Python, JavaScript, Kotlin, SwiftUI, Java, bash.
 
+My Android developer profile: https://g.dev/maxbogus
+
 - 🌱 I’m currently learning Kotlin, Jetpack Compose
 - 🤔 I’m looking for help with Android
 - 💬 Ask me about JavaScript, Writing, Public Speaking, SQA.
