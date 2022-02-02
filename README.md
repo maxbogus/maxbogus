@@ -20,13 +20,12 @@ Here are some ideas to get you started:
 
 Professional Software Developer. +15 years experience in management, development and SQA. Learning languages for Fun. My dev story: [@stackoverflow](https://stackoverflow.com/story/maxbogus)
 
-Languages: Typescript, PHP, Python, JavaScript, Kotlin, SwiftUI, Java, bash.
+Languages: Typescript, PHP, Python, Kotlin, JavaScript, Swift, bash.
 
 My Android developer profile: https://g.dev/maxbogus
 
-- 🌱 I’m currently learning Kotlin, Jetpack Compose
-- 🤔 I’m looking for help with Android
-- 💬 Ask me about Management, TS|Python|JS|Kotlin|Swift, Writing, Public Speaking.
-- 📫 How to reach me via [@twitter](https://twitter.com/maxbogus)
-- 🤔 You can read my articles and subscribe on [@medium](https://medium.com/@maxbogus)
+- 🌱 I’m currently learning Kotlin, Jetpack Compose;
+- 💬 Ask me about Management, TS|Python|JS|Kotlin|Swift, Writing, Public Speaking;
+- 📫 How to reach me via [@twitter](https://twitter.com/maxbogus);
+- 🤔 You can read my articles and subscribe on [@medium](https://medium.com/@maxbogus);
 - ⚡ Public Speaker: TeamLeadConf, MoscowPython, AgileDays, SQADays, AgileKitchen, Mail.ru Meetup.
