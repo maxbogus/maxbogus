@@ -26,7 +26,7 @@ My Android developer profile: https://g.dev/maxbogus
 
 - 🌱 I’m currently learning Kotlin, Jetpack Compose
 - 🤔 I’m looking for help with Android
-- 💬 Ask me about JavaScript, Writing, Public Speaking, SQA.
+- 💬 Ask me about Management, TS|Python|JS|Kotlin|Swift, Writing, Public Speaking.
 - 📫 How to reach me via [@twitter](https://twitter.com/maxbogus)
 - 🤔 You can read my articles and subscribe on [@medium](https://medium.com/@maxbogus)
 - ⚡ Public Speaker: TeamLeadConf, MoscowPython, AgileDays, SQADays, AgileKitchen, Mail.ru Meetup.
