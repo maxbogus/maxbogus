@@ -18,7 +18,7 @@ Here are some ideas to get you started:
 [![twitter](https://img.shields.io/twitter/follow/maxbogus?label=followers&logo=twitter&style=plastic)](https://twitter.com/maxbogus)
 ![wakatime](https://www.codewars.com/users/maxbogus/badges/micro)
 
-Professional Software Developer. +15 years experience in management, development and SQA. Learning languages for Fun. My dev story: [@stackoverflow](https://stackoverflow.com/story/maxbogus)
+Professional Software Developer. +15 years experience in management, development and SQA. Learning languages for fun.
 
 Languages: Typescript, PHP, Python, Kotlin, JavaScript, Swift, bash.
 
