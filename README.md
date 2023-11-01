@@ -22,7 +22,7 @@ Professional Software Developer. +15 years experience in management, development
 
 Languages: Typescript, PHP, Python, Kotlin, JavaScript, Swift, bash.
 
-- 🌱 I’m currently learning C;
+- 🌱 I’m currently learning C++;
 - 💬 Ask me about Management, TS|Python|JS|Kotlin|Swift, Writing, Public Speaking;
 - 🤔 You can read my articles and subscribe on [@medium](https://medium.com/@maxbogus);
 - ⚡ Public Speaker: TeamLeadConf, MoscowPython, AgileDays, SQADays, AgileKitchen, Mail.ru Meetup.
