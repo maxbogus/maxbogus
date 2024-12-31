@@ -19,9 +19,9 @@ Here are some ideas to get you started:
 
 Professional Software Developer. +15 years experience in management, development and SQA. Learning languages for fun.
 
-Languages: Typescript, PHP, Python, Kotlin, JavaScript, Swift, bash.
+Languages: Typescript|JavaScript, PHP, Python, C++, C, C#, Go.
 
-- 🌱 I’m currently learning C++;
+- 🌱 I’m currently learning Go|C++;
 - 💬 Ask me about Management, TS|Python|JS|Kotlin|Swift, Writing, Public Speaking;
 - 🤔 You can read my articles and subscribe on [@medium](https://medium.com/@maxbogus);
 - ⚡ Public Speaker: TeamLeadConf, MoscowPython, AgileDays, SQADays, AgileKitchen, Mail.ru Meetup.
