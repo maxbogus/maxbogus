@@ -1,27 +1,60 @@
-### Hi there 👋
+# Hi there 👋
 
-<!--
-**maxbogus/maxbogus** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**CTO | Technical Leader | Architecture Enthusiast**
 
-Here are some ideas to get you started:
+Professional tech leader with **21+ years** building products & scaling teams. 
+Expertise: Frontend Architecture, DevOps, Team Building, Strategic Tech Leadership.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
-[![wakatime](https://wakatime.com/badge/user/6bf1fc10-6fde-4d93-9b6b-c332821ebb42.svg)](https://wakatime.com/@6bf1fc10-6fde-4d93-9b6b-c332821ebb42)
-[![codewars](https://www.codewars.com/users/maxbogus/badges/micro)](https://www.codewars.com/users/maxbogus)
+## 🎯 What I Do
 
-Professional Software Developer. +15 years experience in management, development and SQA. Learning languages for fun.
+- 🏗️ **Build:** Products from MVP to scale (3-month delivery track record)
+- 👥 **Lead:** Distributed teams across 4 countries (0→12 scaling experience)
+- 💰 **Optimize:** Infrastructure costs ($20K AWS savings), efficiency (+40-60%)
+- 🔧 **Architect:** Modern tech stacks (TypeScript, React, Node.js, Kubernetes)
 
-Languages: Typescript|JavaScript, PHP, Python, C++, C, C#, Go.
+## 🚀 Current Focus
 
-- 🌱 I’m currently learning Go|C++;
-- 💬 Ask me about Management, TS|Python|JS|Kotlin|Swift, Writing, Public Speaking;
-- 🤔 You can read my articles and subscribe on [@medium](https://medium.com/@maxbogus);
-- ⚡ Public Speaker: TeamLeadConf, MoscowPython, AgileDays, SQADays, AgileKitchen, Mail.ru Meetup.
+- 🌍 **Tech Sovereignty:** Contributing to Russia's import-substitution initiatives
+- 📚 **Education:** Mentoring at MGIMO & Bauman University (Talent pipeline development)
+- 💡 **Innovation:** Building EdTech platform for seniors (35M+ market in Russia)
+
+## 💻 Tech Stack
+
+**Languages:** TypeScript | JavaScript | Python | Go | Kotlin | C++  
+**Stack:** React, Node.js, Docker, Kubernetes, PostgreSQL, AWS  
+**Expertise:** System Architecture, CI/CD, DevOps, Team Leadership
+
+## 📊 Track Record
+
+- ✅ Managed teams: 4→12 people (QA, Frontend, Full-stack)
+- ✅ Products shipped: MVP in 3 months, 100% scope delivery
+- ✅ Cost impact: $20K AWS + 2M₽ vendor optimization annually
+- ✅ Patents & Open-source: USPTO pending, 35+ contributions (DefinitelyTyped)
+
+## 🎓 Education & Certifications
+
+- MBA, Finance University (2021) | MGIMO (in progress, 2027)
+- BAUMAN MSU: Software Engineering (2025)
+- 487 completed Kata (Codewars, 3 kyu)
+
+## 💬 Ask Me About
+
+- Technical leadership & team scaling
+- System architecture & DevOps optimization  
+- Product development & MVP delivery
+- Work-life balance in tech leadership
+- Tech sovereignty & import-substitution
+- Public speaking & mentorship
+
+## 🌱 Core Values
+
+**Sustainable Leadership:** Great products come from great people—not burnout.  
+**Strategic Growth:** Building portfolio career (CTO + advisory + side projects).  
+**Family First:** Balancing ambition with quality time.
+
+## 🔗 Let's Connect
+
+📧 **Email:** maxbogus@vk.com  
+🐙 **GitHub:** [@maxbogus](https://github.com/maxbogus)  
+📰 **Medium:** [@maxbogus](https://medium.com/@maxbogus)  
+🎙️ **Speaking:** TeamLeadConf | MoscowPython | AgileDays | SQADays
