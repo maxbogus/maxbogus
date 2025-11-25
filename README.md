@@ -1,60 +1,114 @@
-# Hi there 👋
+CTO in Progress | Technical Leader | Architecture & Product Thinking
 
-**CTO | Technical Leader | Architecture Enthusiast**
+Technology leader with 21+ years scaling products, architecting systems, and building high-performing teams. Currently Head of Frontend Development at Atom.auto. Transitioning from pure engineering to technical program management and executive leadership.
 
-Professional tech leader with **21+ years** building products & scaling teams. 
-Expertise: Frontend Architecture, DevOps, Team Building, Strategic Tech Leadership.
+🎯 What I Do:
 
-## 🎯 What I Do
+🏗️ Build: Products from MVP to enterprise scale (3-month delivery, 99.7% uptime)
 
-- 🏗️ **Build:** Products from MVP to scale (3-month delivery track record)
-- 👥 **Lead:** Distributed teams across 4 countries (0→12 scaling experience)
-- 💰 **Optimize:** Infrastructure costs ($20K AWS savings), efficiency (+40-60%)
-- 🔧 **Architect:** Modern tech stacks (TypeScript, React, Node.js, Kubernetes)
+👥 Lead: Distributed teams across 4 countries (1→50+ engineers, building psychological safety)
 
-## 🚀 Current Focus
+💰 Optimize: Infrastructure & operational efficiency (AWS optimization, 40-60% improvements)
 
-- 🌍 **Tech Sovereignty:** Contributing to Russia's import-substitution initiatives
-- 📚 **Education:** Mentoring at MGIMO & Bauman University (Talent pipeline development)
-- 💡 **Innovation:** Building EdTech platform for seniors (35M+ market in Russia)
+🔧 Architect: Scalable tech stacks & microservices (TypeScript, React, Node.js, Kubernetes, PostgreSQL)
 
-## 💻 Tech Stack
+📊 Strategize: 5-year technical roadmaps, P&L responsibility, AI/ML integration
 
-**Languages:** TypeScript | JavaScript | Python | Go | Kotlin | C++  
-**Stack:** React, Node.js, Docker, Kubernetes, PostgreSQL, AWS  
-**Expertise:** System Architecture, CI/CD, DevOps, Team Leadership
+🚀 Current Mission
 
-## 📊 Track Record
+Bridging pure engineering to executive leadership:
 
-- ✅ Managed teams: 4→12 people (QA, Frontend, Full-stack)
-- ✅ Products shipped: MVP in 3 months, 100% scope delivery
-- ✅ Cost impact: $20K AWS + 2M₽ vendor optimization annually
-- ✅ Patents & Open-source: USPTO pending, 35+ contributions (DefinitelyTyped)
+🌍 Tech Sovereignty: Leading frontend architecture for Russia's automotive tech (import-substitution initiatives)
 
-## 🎓 Education & Certifications
+🎓 Mentorship & Education: Teaching at MGIMO & Bauman University (talent pipeline development)
 
-- MBA, Finance University (2021) | MGIMO (in progress, 2027)
-- BAUMAN MSU: Software Engineering (2025)
-- 487 completed Kata (Codewars, 3 kyu)
+🤖 AI Integration: Exploring LLM applications in product development and technical decision-making
 
-## 💬 Ask Me About
+💡 Product Thinking: Developing Product Engineer competencies (TPM/Technical Program Management)
 
-- Technical leadership & team scaling
-- System architecture & DevOps optimization  
-- Product development & MVP delivery
-- Work-life balance in tech leadership
-- Tech sovereignty & import-substitution
-- Public speaking & mentorship
+📚 Learning in Public: Writing about tech leadership, career transitions, and team scaling
 
-## 🌱 Core Values
+💻 Tech Stack
 
-**Sustainable Leadership:** Great products come from great people—not burnout.  
-**Strategic Growth:** Building portfolio career (CTO + advisory + side projects).  
-**Family First:** Balancing ambition with quality time.
+Languages: TypeScript | JavaScript | Python | Go | Kotlin | C++
 
-## 🔗 Let's Connect
+Frontend: React, Redux, Zustand, React Query, Microfrontends, SSR
 
-📧 **Email:** maxbogus@vk.com  
-🐙 **GitHub:** [@maxbogus](https://github.com/maxbogus)  
-📰 **Medium:** [@maxbogus](https://medium.com/@maxbogus)  
-🎙️ **Speaking:** TeamLeadConf | MoscowPython | AgileDays | SQADays
+Backend: Node.js, Express, NestJS
+
+Infrastructure: Docker, Kubernetes, AWS, PostgreSQL, CI/CD pipelines
+
+Expertise: System Architecture, DevOps, Frontend Performance, Team Leadership, Product Strategy
+
+📊 Impact & Track Record:
+
+✅ Team Scaling: Grew frontend org from 4→12 people (QA, Frontend, Full-stack distributed)
+
+✅ Products Delivered: MVP launches in 3 months, 100% scope delivery, production-ready code
+
+✅ Cost Optimization: $20K annual AWS savings + $2M vendor optimization
+
+✅ Reliability: Maintained 99.7% uptime across high-traffic systems
+
+✅ Mentorship: Developed 3 senior engineers promoted to team leads
+
+✅ Open Source: 35+ contributions (DefinitelyTyped, frontend tooling)
+
+🎓 Education & Continuous Learning
+Master's in Progress: MGIMO (Moscow State Institute of International Relations, graduating July 2027) — focus on innovation & digital transformation
+
+MBA: Financial University under the Government of Russian Federation (2025)
+
+Bachelor's: Bauman Moscow State Technical University (МГТУ им. Баумана) — Software Engineering
+
+Professional Development: JetBrains Academy (Kotlin), Udacity (ML, iOS, Full Stack), 487 completed Codewars Kata (3 kyu)
+
+🌱 Career Trajectory & Vision
+Current Path → CTO/CPTO:
+
+Head of Frontend Development (current) — Pure technical leadership in one domain
+
+Product Engineer / Technical Program Manager (next 12-18 months) — Hybrid role with P&L responsibility
+
+VP Engineering / CTO (2027+) — Executive leadership with strategic scope
+
+Why this progression? Building executive capabilities while maintaining technical credibility. The TPM/Product Engineer role bridges pure engineering and business leadership—essential for sustainable CTO paths.
+
+💬 Topics I Love Discussing
+Technical leadership & scaling engineering teams (1→50+ people)
+
+Frontend architecture at scale & performance optimization
+
+System design & DevOps practices
+
+Product thinking for engineers (MVP delivery, metrics, user research)
+
+Career transitions: IC → Engineering Manager → CTO
+
+AI/LLM applications in product development
+
+Work-life balance & sustainable leadership
+
+Russia's tech ecosystem & import-substitution initiatives
+
+Conflict resolution & psychological safety in tech teams
+
+🎯 Core Values
+
+Sustainable Leadership: Great products come from thriving teams, not burnout.
+
+Strategic Thinking: Building diversified portfolio career (CTO track + mentorship + advisory + side projects).
+
+Family-First Balance: Serious about ambition AND quality time with family.
+
+Learning Velocity: Obsessed with understanding market trends, AI capabilities, and emerging leadership models.
+
+Transparency: Share wins and failures equally—that's how we all grow.
+
+🔗 Let's Connect & Collaborate:
+
+📧 Email: maxbogus@vk.com
+📰 Medium: @maxbogus — Tech leadership & career insights
+💬 Telegram: [aiscepticism](https://t.me/aiscepticism) — Daily thoughts on tech, AI, leadership
+🔗 LinkedIn: [maxbogus](https://www.linkedin.com/in/maxbogus) — Professional updates & industry analysis
+📚 Habr: [maxbogus](https://habr.com/ru/users/maxbogus/) — Deep technical articles for Russian tech community
