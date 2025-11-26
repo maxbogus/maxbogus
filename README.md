@@ -1,114 +1,205 @@
-CTO in Progress | Technical Leader | Architecture & Product Thinking
+CTO in Progress | VP Engineering Track
+Technology leader with 21+ years building products, architecting systems, and scaling high-performing teams. Currently Head of Frontend Development at Atom.auto with P&L responsibility and 5M+ users. Early executive experience: Board-level strategic partner at 27-28 years (Banki.ru). Transitioning to VP Engineering / CTO through Product Engineering and Technical Program Management.
 
-Technology leader with 21+ years scaling products, architecting systems, and building high-performing teams. Currently Head of Frontend Development at Atom.auto. Transitioning from pure engineering to technical program management and executive leadership.
+🎯 What I Do
+🏗️ Build: Products from 0→1 to enterprise scale
 
-🎯 What I Do:
+MVP in 3 months, 100% scope delivery, production-ready code
 
-🏗️ Build: Products from MVP to enterprise scale (3-month delivery, 99.7% uptime)
+99.7% uptime, −80% critical incidents
 
-👥 Lead: Distributed teams across 4 countries (1→50+ engineers, building psychological safety)
+👥 Lead: High-performing distributed teams
 
-💰 Optimize: Infrastructure & operational efficiency (AWS optimization, 40-60% improvements)
+0→11→50+ engineers across multiple startups
 
-🔧 Architect: Scalable tech stacks & microservices (TypeScript, React, Node.js, Kubernetes, PostgreSQL)
+5% retention (vs 15-20% industry average)
 
-📊 Strategize: 5-year technical roadmaps, P&L responsibility, AI/ML integration
+Psychological safety + culture of excellence
 
-🚀 Current Mission
+💰 Optimize: Infrastructure & P&L accountability
 
-Bridging pure engineering to executive leadership:
+Full budget ownership: 4 years P&L experience (Banki.ru)
 
-🌍 Tech Sovereignty: Leading frontend architecture for Russia's automotive tech (import-substitution initiatives)
+−75% infrastructure costs through strategic migration
 
-🎓 Mentorship & Education: Teaching at MGIMO & Bauman University (talent pipeline development)
+−60% analytics expenses via in-house solutions
 
-🤖 AI Integration: Exploring LLM applications in product development and technical decision-making
+🔧 Architect: Scalable systems & modern tech stacks
 
-💡 Product Thinking: Developing Product Engineer competencies (TPM/Technical Program Management)
+TypeScript, React, Node.js, Kubernetes, PostgreSQL
 
-📚 Learning in Public: Writing about tech leadership, career transitions, and team scaling
+Microfrontends, SSR, high-performance solutions
 
-💻 Tech Stack
+📊 Strategize: Executive-level decision making
 
-Languages: TypeScript | JavaScript | Python | Go | Kotlin | C++
+Board-level partner: C-suite & founders contact (Banki.ru)
 
-Frontend: React, Redux, Zustand, React Query, Microfrontends, SSR
+5-year technical roadmaps
 
-Backend: Node.js, Express, NestJS
+AI/ML integration & product strategy
 
-Infrastructure: Docker, Kubernetes, AWS, PostgreSQL, CI/CD pipelines
+🚀 Current Mission: Bridging Engineering → Executive Leadership
+🌍 Tech Sovereignty
+Leading frontend architecture for Russia's automotive tech (ATOM.auto, import-substitution)
 
-Expertise: System Architecture, DevOps, Frontend Performance, Team Leadership, Product Strategy
+💼 Executive Development
 
-📊 Impact & Track Record:
+P&L responsibility for frontend division (5M+ users)
 
-✅ Team Scaling: Grew frontend org from 4→12 people (QA, Frontend, Full-stack distributed)
+Cross-functional coordination with Product, Backend, DevOps
 
-✅ Products Delivered: MVP launches in 3 months, 100% scope delivery, production-ready code
+Strategic planning & stakeholder management
 
-✅ Cost Optimization: $20K annual AWS savings + $2M vendor optimization
+🤖 AI Integration
+LLM applications in product development, technical risk management, data-driven decisions
 
-✅ Reliability: Maintained 99.7% uptime across high-traffic systems
+🎓 Teaching & Mentorship
+MGIMO + Bauman University — developing future tech leaders
 
-✅ Mentorship: Developed 3 senior engineers promoted to team leads
+📚 Public Visibility
+Writing: Architecture, team scaling, AI skepticism, career transitions
+Speaking: ProductConf 2025 (conflict resolution & team scaling)
 
-✅ Open Source: 35+ contributions (DefinitelyTyped, frontend tooling)
+💻 Tech Stack & Expertise
+Executive & Business:
+P&L Management - Budget Ownership - Board-level Communication - Strategic Planning - C-Suite Engagement
+
+Languages:
+TypeScript | JavaScript | Python | Go | Kotlin
+
+Frontend:
+React - Redux - Zustand - React Query - Microfrontends - SSR - Performance Optimization
+
+Backend/Infrastructure:
+Node.js - NestJS - Docker - Kubernetes - AWS - PostgreSQL - CI/CD
+
+Expertise:
+System Architecture - DevOps - Frontend at Scale - Team Leadership - Product Strategy - AI Integration
+
+📊 Impact & Track Record
+Executive Experience:
+
+✅ Board-level strategic partner at 27-28 years (Banki.ru) — rare early executive experience
+
+✅ Full P&L ownership — 4 years budget management (outsourcing, salaries, learning, conferences)
+
+✅ Company-wide influence — de facto veto on all releases (mobile, web, API)
+
+Team Building:
+
+✅ 0→11→50+ engineers — three successful team builds from scratch
+
+✅ 5% retention — exceptional vs 15-20% industry average
+
+✅ 3+ future leaders — career transformations (tech support → Middle QA)
+
+Business Results:
+
+✅ ~5M₽/year fraud protection (Banki.ru bot detection & risk management)
+
+✅ 99.7% uptime — high-reliability systems across fintech, medical, automotive
+
+✅ −75% infrastructure costs — strategic cloud optimization
+
+✅ −80% critical incidents — improved monitoring & error tracking
+
+Products & Scale:
+
+✅ 5M+ users — frontend services at ATOM
+
+✅ 100% scope delivery — MVP in 3 months, production-ready
+
+✅ 15+ languages — global medical systems (Align Technology, FDA compliance)
+
+Open Source:
+
+✅ 35+ contributions — DefinitelyTyped, frontend tooling
 
 🎓 Education & Continuous Learning
-Master's in Progress: MGIMO (Moscow State Institute of International Relations, graduating July 2027) — focus on innovation & digital transformation
+Master's in Progress:
+MGIMO (Moscow State Institute of International Relations) — Digital Product Management, International Markets, graduating July 2027
 
-MBA: Financial University under the Government of Russian Federation (2025)
+MBA:
+Financial University under the Government of Russian Federation (2025) — AI-driven psychological profiling
 
-Bachelor's: Bauman Moscow State Technical University (МГТУ им. Баумана) — Software Engineering
+Bachelor's:
+Bauman Moscow State Technical University — AI Steganography (hidden data detection)
 
-Professional Development: JetBrains Academy (Kotlin), Udacity (ML, iOS, Full Stack), 487 completed Codewars Kata (3 kyu)
+Law Degree:
+Moscow University of Finance and Law — Computer Crime & Cybersecurity Investigation
 
-🌱 Career Trajectory & Vision
-Current Path → CTO/CPTO:
+Professional Development:
+JetBrains Academy (Kotlin) - Udacity (ML, iOS, Full Stack) - 487 Codewars Kata (3 kyu)
 
-Head of Frontend Development (current) — Pure technical leadership in one domain
+🌱 Career Trajectory: 2012 → 2027
+Stage	Role	Focus	When
+Past	Chief Quality Officer (Banki.ru)	Board-level, P&L, C-suite strategy	2012-2016
+Current	Head of Frontend Development (ATOM)	Technical leadership in one vertical	2023-now
+Next	Product Engineer / TPM	P&L, cross-functional, metrics, delivery	2025-2026
+Target	VP Engineering / CTO	Executive strategy, board, hiring, scaling	2026-2027
+Why this progression?
+I've already had board-level experience at 27-28 — the gap isn't "learning executive skills," it's scaling those skills from one department to full company scope. TPM/Product Engineer bridges pure engineering to business leadership.
 
-Product Engineer / Technical Program Manager (next 12-18 months) — Hybrid role with P&L responsibility
+💡 Unique Background (< 1% of market)
+Early executive experience: Board-level strategic partner at 27-28 (Banki.ru) with full P&L, C-suite contact, company-wide influence
 
-VP Engineering / CTO (2027+) — Executive leadership with strategic scope
+Law + Tech + AI: Criminology degree + AI steganography + 20+ years engineering → seeing technology through risk & strategy lens
 
-Why this progression? Building executive capabilities while maintaining technical credibility. The TPM/Product Engineer role bridges pure engineering and business leadership—essential for sustainable CTO paths.
+Fintech + Medical + Automotive: Regulated sectors + production systems + critical infrastructure (BCS, Align Tech, Banki.ru, ATOM)
+
+International + Domestic: 5 years Silicon Valley (Align Tech, FDA) + Russia's import-substitution (ATOM)
+
+MBA + Master's: Continuous strategic thinking development (Financial U + MGIMO)
+
+This combination lets me see technology through the lens of risk, strategy, and business impact — key CTO/CPTO skills.
 
 💬 Topics I Love Discussing
-Technical leadership & scaling engineering teams (1→50+ people)
+Tech leadership: Scaling teams (1→50+), psychological safety, conflict resolution
 
-Frontend architecture at scale & performance optimization
+Frontend architecture: Microfrontends, SSR, performance at scale
 
-System design & DevOps practices
+System design & DevOps: Reliability, cost optimization, infrastructure
 
-Product thinking for engineers (MVP delivery, metrics, user research)
+Product thinking: MVP delivery, metrics, user research, TPM competencies
 
-Career transitions: IC → Engineering Manager → CTO
+Career transitions: IC → Manager → VP → CTO
 
-AI/LLM applications in product development
+AI integration: LLM applications, skepticism, realistic ROI
 
-Work-life balance & sustainable leadership
+Executive skills: P&L management, board communication, strategic planning
 
-Russia's tech ecosystem & import-substitution initiatives
+Russia's tech ecosystem: Import-substitution, tech sovereignty
 
-Conflict resolution & psychological safety in tech teams
+Sustainable leadership: Ambition + family + work-life balance
 
 🎯 Core Values
+Executive Thinking: 90-95% ready for CTO/VP Engineering — not "aspiring," but deliberately building missing 5-10%
 
-Sustainable Leadership: Great products come from thriving teams, not burnout.
+Evidence-Based: Strategic decisions backed by metrics, not hype (AI skepticism, TCO/ROI focus)
 
-Strategic Thinking: Building diversified portfolio career (CTO track + mentorship + advisory + side projects).
+People-First: 5% retention proves: great products come from thriving teams, not burnout
 
-Family-First Balance: Serious about ambition AND quality time with family.
+Continuous Growth: MBA + Master's + public speaking + mentorship = learning velocity
 
-Learning Velocity: Obsessed with understanding market trends, AI capabilities, and emerging leadership models.
+Family Balance: Serious ambition AND quality time with family (non-negotiable)
 
-Transparency: Share wins and failures equally—that's how we all grow.
+Transparency: Share wins and failures equally — that's how we all grow
 
-🔗 Let's Connect & Collaborate:
-
+🔗 Let's Connect & Collaborate
 📧 Email: maxbogus@vk.com
-📰 Medium: @maxbogus — Tech leadership & career insights
-💬 Telegram: [aiscepticism](https://t.me/aiscepticism) — Daily thoughts on tech, AI, leadership
-🔗 LinkedIn: [maxbogus](https://www.linkedin.com/in/maxbogus) — Professional updates & industry analysis
-📚 Habr: [maxbogus](https://habr.com/ru/users/maxbogus/) — Deep technical articles for Russian tech community
+🔗 LinkedIn: linkedin.com/in/maxbogus
+📚 Habr: habr.com/ru/users/maxbogus — Deep technical articles (Russian)
+💬 Telegram: t.me/aiscepticism — AI skepticism & tech leadership
+💻 GitHub: github.com/maxbogus
+
+Open to:
+
+VP Engineering / CTO roles
+
+Product Engineering / TPM positions
+
+Advisory & mentorship (coffee ☕️ or paid consulting)
+
+Speaking engagements on tech leadership, architecture, AI integration
+
+Let's talk if you're building products that need strategic technical leadership, executive presence, and proven team-building skills.
