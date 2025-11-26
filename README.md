@@ -52,9 +52,13 @@ Evidence-based strategy, sustainable teams, tech skepticism, continuous growth, 
 🔗 Let's Connect & Collaborate
 
 📧 Email: maxbogus@vk.com
+
 🔗 LinkedIn: linkedin.com/in/maxbogus
+
 📚 Habr: habr.com/ru/users/maxbogus — Deep technical articles (Russian)
+
 💬 Telegram: t.me/aiscepticism — AI skepticism & tech leadership
+
 💻 GitHub: github.com/maxbogus
 
 Open to: VP Engineering / CTO, Product Engineering, advisory & mentorship, public speaking.
