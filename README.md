@@ -41,11 +41,4 @@ Career Trajectory & Next Step
 Core Values
 Evidence-based strategy and ROI, healthy skepticism toward hype, sustainable teams, transparency, family priorities and long-term horizon.
 
-Contact & Presence
-- Email: maxbogus@vk.com
-- LinkedIn: linkedin.com/in/maxbogus
-- Habr: habr.com/ru/users/maxbogus — deep technical writing on architecture and processes.
-- Telegram: t.me/aiscepticism — AI skepticism, tech leadership, realistic expectations from AI.
-- GitHub: github.com/maxbogus — code, experiments, pet projects.
-
 Open to: VP Engineering / CTO roles, Head of Platform / Product Engineering, advisory & mentorship, public speaking, consulting on tech strategy, organizational design and engineering team scaling.
