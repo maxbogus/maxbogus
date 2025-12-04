@@ -1,60 +1,51 @@
-CTO in Progress | VP Engineering Track
-Technology leader (21+ years) | Head of Frontend @ Atom.auto | Early executive experience with Board-level & P&L responsibility (Banki.ru, 27 y.o.). Bridging engineering and business as I transition to VP Engineering/CTO via Product Engineering & Technical Program Management.
+Executive-level Principal Engineer (21+ years) | Head of Frontend @ ATOM.auto | Board-level & P&L experience (Banki.ru, age 27–28). Bridging engineering, product and business on the path to VP Engineering / CTO via Product Engineering and Head of Platform.
 
-What I Do:
-- Build & scale products — MVPs to enterprise (3-month delivery, 99.7% uptime, 1000+ RPS)
-- Lead distributed teams (1→50+), 5% retention, psychological safety
-- Optimize costs & infrastructure (AWS, cloud, −75% infra spend)
-- Architect scalable systems (TypeScript, React, Node.js, Kubernetes, Microfrontends, SSR)
-- Executive strategy, AI/ML integration, P&L, stakeholder management
-- High Load & FinTech expertise — systems with 25M+ users, 10+ трлн руб. quarterly volumes
+What I Do
+- Build & scale products: from MVP to high-load platforms (1000+ RPS, 25M+ users, 99.7% uptime).
+- Lead and grow teams: from 0/1 to 50+ engineers, 5% attrition vs 15–20% industry average, culture of psychological safety.
+- Optimize costs & infrastructure: AWS, Kubernetes, smart migrations, up to −75% infrastructure costs, millions $ equivalent in savings.
+- Architect scalable systems: TypeScript, React, Node.js, Microfrontends, SSR, high-load, observability, CI/CD.
+- Drive executive strategy: P&L, unit economics, board-level decisions, AI/ML and LLM integration into product and processes.
 
 Current Mission
- - Bridging tech execution to executive leadership:
- - Leading frontend architecture for Russia's automotive tech (ATOM.auto, 5M+ users)
- - Teaching & mentorship (MGIMO, Bauman, TechLead Conf)
- - AI: integrating LLMs for product & management, AI skepticism research
- - Public writing & speaking on tech leadership, career transitions, tech sovereignty
+- Lead frontend architecture & platform @ ATOM.auto (automotive/fintech ecosystem, 5M+ users, focus on tech sovereignty).
+- Build "Head of Platform" function: platform as product, metrics for ROI, adoption, developer experience.
+- Teach & mentor: MGIMO, Bauman University, conferences (TeamLead, SQA Days, etc.), developing next generation of tech leads.
+- AI & risk: practical LLM integration (GigaChat etc.) + research in AI-steganography, cybersecurity and AI-hype skepticism.
 
-Tech Stack & Expertise
-- Languages: TypeScript, JavaScript, Python, Go, Kotlin
-- Frontend: React, Redux, Zustand, React Query, Microfrontends, SSR, Performance Optimization
-- Backend: Node.js, NestJS, CI/CD
-- Infrastructure: Docker, Kubernetes, AWS, PostgreSQL, DevOps
-- Strengths: System Architecture, High Load Systems, Product Strategy, Team Building, Board-level Communication, P&L Management
+Tech Stack & Strengths
+- Languages: TypeScript, JavaScript, Python, Go, Kotlin.
+- Frontend: React ecosystem, Redux/Zustand, React Query, Microfrontends, SSR, Core Web Vitals, design systems.
+- Backend & Infra: Node.js/NestJS, PostgreSQL, Redis, Docker, Kubernetes, AWS, GitHub Actions, cost-aware DevOps.
+- Strengths: System architecture, high-load & FinTech, product strategy, team building, managing managers (through tech leads), board-level communication and P&L.
 
 Impact & Track Record
-- High Load & Scale: 1000+ RPS, 25M+ users (Banki.ru, Innova 4game)
-- FinTech Expertise: Брокерские платформы (БКС) с ежеквартальным оборотом >10 трлн руб., zero-tolerance to critical bugs
-- Safety-Critical Systems: Boeing WIRS (aircraft architecture), Acronis (5M B2C, 750K B2B, system-level)
-- Real-time Operations: Gett (20K vehicles, 2000 taxi parks), logistics coordination
-- Org scaling: 1→50+ engineers, built exceptional teams (5% retention vs 15-20% industry avg)
-- Reliability: 99.7% uptime, −80% critical incidents
-- Cost optimization: −75% infrastructure spend, $2M+ savings via vendor optimization
-- Executive experience: Chief Quality Officer at Banki.ru (27-28 y.o.) — board-level, full P&L, release veto, protected ~5M₽/year from losses
-- Delivery: MVP in 3 months, 100% scope, production-ready code
+- High load & FinTech: 1000+ RPS, 11–25M users; brokerage platforms with quarterly volume >10 trillion RUB.
+- Safety-critical: Boeing WIRS (avionics), Acronis (5M B2C / 750K B2B), Align (FDA compliance, 15 languages), zero-tolerance for critical bugs.
+- Reliability & costs: 99.7% uptime, −80% critical incidents, −75% infrastructure costs, −60% analytics SaaS spend, ~5M+ RUB/year in fraud protection value.
+- Org scale: 0→11 QA (Banki.ru), 0→8 full-stack (Gett), 0→8 frontend (ATOM), 3 engineers developed to tech leads and leadership roles.
+
+Executive: Chief Quality Officer @ Banki.ru (age 27–28) with full P&L (300–500K$/year), board-level decisions and release veto power.
 
 Education & Background
-- MBA: Financial University (2025)
-- Master's: MGIMO — Digital Product Management (graduating July 2027)
-- Engineering: Bauman MSTU (Software Engineering)
-- Unique background: Law degree (MIEMP, criminal law) + AI-steganography + cybersecurity → tech through lens of risk & sovereignty
+- MBA — Financial University (2025).
+- Master's — MGIMO, Digital Product Management (graduation 2027).
+- Engineering — Bauman MSTU, Software Engineering.
+- Law — MIEMP, criminal law & cybercrime; research in AI-steganography and cybersecurity → tech leadership through the lens of risk and sovereignty.
 
-Career Trajectory
-Chief Quality Officer (Banki.ru, board-level, full P&L) → Head of Frontend (ATOM.auto, current) → Next: Product Engineer/TPM → VP Engineering/CTO
+Career Trajectory & Next Step
+- Path: QA & Safety-Critical → Chief Quality Officer (board-level, P&L) → Head of Frontend (Principal-level IC) → Head of Platform / Product Engineer → VP Engineering / CTO.
+- Current: Staff/Principal-level Head of Frontend @ ATOM.auto, managing 8 engineers through tech leads and standards, effectively 100+ engineers through quality gates and architecture.
+- Next step: formalize Principal Engineer + transition to Head of Platform with 1–2 managers and 5–10 engineers as a bridge to VP Engineering.
 
 Core Values
-Evidence-based strategy, sustainable teams, tech skepticism, continuous growth, family-first, transparency
+Evidence-based strategy and ROI, healthy skepticism toward hype, sustainable teams, transparency, family priorities and long-term horizon.
 
-🔗 Let's Connect & Collaborate
-📧 Email: maxbogus@vk.com
+Contact & Presence
+- Email: maxbogus@vk.com
+- LinkedIn: linkedin.com/in/maxbogus
+- Habr: habr.com/ru/users/maxbogus — deep technical writing on architecture and processes.
+- Telegram: t.me/aiscepticism — AI skepticism, tech leadership, realistic expectations from AI.
+- GitHub: github.com/maxbogus — code, experiments, pet projects.
 
-🔗 LinkedIn: linkedin.com/in/maxbogus
-
-📚 Habr: habr.com/ru/users/maxbogus — Deep technical articles & architecture patterns
-
-💬 Telegram: t.me/aiscepticism — AI skepticism, tech leadership, realistic expectations
-
-💻 GitHub: github.com/maxbogus
-
-Open to: VP Engineering / CTO roles, Product Engineering positions, advisory & mentorship, public speaking, consulting on tech strategy & team building
+Open to: VP Engineering / CTO roles, Head of Platform / Product Engineering, advisory & mentorship, public speaking, consulting on tech strategy, organizational design and engineering team scaling.
