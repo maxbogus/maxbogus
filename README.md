@@ -23,7 +23,7 @@ Impact & Track Record
 - High load & FinTech: 1000+ RPS, 11–25M users; brokerage platforms with quarterly volume >10 trillion RUB.
 - Safety-critical: Boeing WIRS (avionics), Acronis (5M B2C / 750K B2B), Align (FDA compliance, 15 languages), zero-tolerance for critical bugs.
 - Reliability & costs: 99.7% uptime, −80% critical incidents, −75% infrastructure costs, −60% analytics SaaS spend, ~5M+ RUB/year in fraud protection value.
-- Org scale: 0→11 QA (Banki.ru), 0→8 full-stack (Gett), 0→8 frontend (ATOM), 3 engineers developed to tech leads and leadership roles.
+- Org scale: 0→11 QA (Banki.ru), 0→10 full-stack (Gett), >3 engineers developed to tech leads and leadership roles.
 
 Executive: Chief Quality Officer @ Banki.ru (age 27–28) with full P&L (300–500K$/year), board-level decisions and release veto power.
 
@@ -40,5 +40,3 @@ Career Trajectory & Next Step
 
 Core Values
 Evidence-based strategy and ROI, healthy skepticism toward hype, sustainable teams, transparency, family priorities and long-term horizon.
-
-Open to: VP Engineering / CTO roles, Head of Platform / Product Engineering, advisory & mentorship, public speaking, consulting on tech strategy, organizational design and engineering team scaling.
