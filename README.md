@@ -8,7 +8,7 @@ AI/LLM Integration: Practical deployment of private LLMs (GigaChat etc.) and AI-
 
 Platform Leadership: Designed and led engineering platforms, reducing infra costs by 75% and saving $20K+/year.
 
-Team Growth: Scaled teams from 0 to 50+, developed 3+ engineers into tech leads.
+Team Growth: Scaled teams from 0 to 30+, developed 6+ engineers into tech leads.
 
 Strategic Impact: Authored roadmap frameworks, ROI models, and competency marketplaces with 15–40% outsourcing savings.
 
