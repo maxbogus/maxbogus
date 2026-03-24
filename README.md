@@ -1,18 +1,24 @@
-AI & Platform Engineering Leader | CTO / VP Engineering Track
-Building scalable AI-driven platforms (supergraph, LLM, microservices) for 25M+ users with 99.3% uptime.
-Former C-level @ Banki.ru, Founder, and Principal Architect across fintech, automotive, and FDA-regulated products.
+Professional Competencies:
+Total experience in IT, including as a development manager: 19 years.
 
-What I deliver:
+Graduated from Bauman Moscow State Technical University, Department of IU7 (Artificial Intelligence and Automated Control Systems).
+Earned an MBA from the Financial University under the specialization of Entrepreneurship Strategy.
 
-AI/LLM Integration: Practical deployment of private LLMs (GigaChat etc.) and AI-driven quality systems.
+Technology Stack:
 
-Platform Leadership: Designed and led engineering platforms, reducing infra costs by 75% and saving $20K+/year.
+Programming Languages: TypeScript / JavaScript, Python, C#, PHP, SQL
 
-Team Growth: Scaled teams from 0 to 30+, developed 6+ engineers into tech leads.
+Frameworks and Libraries: React (Redux Toolkit, Zustand), Angular 2+, Node.js, Django, Symfony, GraphQL / Apollo Client
 
-Strategic Impact: Authored roadmap frameworks, ROI models, and competency marketplaces with 15–40% outsourcing savings.
+Development Tools and Build Systems: Docker, Kubernetes, Vite, Esbuild, Webpack, Cursor, Cline, Bamboo, Bitbucket, Gitlab, Jenkins, JMeter
 
-Currently: Leading platform architecture @ ATOM.auto (automotive/fintech, 5M+ users).
-Focus: AI infrastructure, platform-as-a-product, and developer experience.
+Databases: PostgreSQL, Redis, ChromaDB
 
-Let’s build the future with AI.
+AI / LLM: Working with Large Language Models (LLMs), Agent-based development (LLM agents), Ollama, DeepSeek, Minimax
+
+Protocols, API, and Architecture: REST, OpenAPI, WebSockets, JSON-RPC, Service Workers, Rx, Event-driven architecture
+
+Operating Systems and Environments: Ubuntu, Mac OS, Windows
+
+Personal Qualities:
+Strategic thinking and systematic planning. Leadership and decisiveness in decision-making. High performance and organizational skills. Emotional stability and stress resistance. Pragmatism and results-oriented approach.
